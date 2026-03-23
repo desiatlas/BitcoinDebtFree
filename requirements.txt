@@ -5,3 +5,4 @@ plotly
 yfinance
 datetime
 numpy_financial
+matplotlib
