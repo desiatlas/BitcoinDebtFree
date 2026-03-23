@@ -1,0 +1,6 @@
+streamlit
+# plus whatever else your app needs, one per line
+# e.g.
+pandas
+numpy
+plotly
